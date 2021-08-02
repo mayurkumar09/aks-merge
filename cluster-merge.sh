@@ -1,5 +1,5 @@
 init () {
-    echo "Welcome to sidnx"
+    echo "Please log into your azure account"
     auth=$(az login)
 }
 
