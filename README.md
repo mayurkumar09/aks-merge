@@ -1,2 +1,2 @@
 # aks-merge
-A shell script to merge aks clusters across all the subscription.
+Script to merge aks clusters across all the subscription. You can use either powershell or bash script.
